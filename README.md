@@ -44,6 +44,7 @@ npx prisma db seed
 # 6. Start the server
 npm run dev
 
+```
 Authorization: Bearer <your_token_here>
 
 ## 📘 API Endpoints
